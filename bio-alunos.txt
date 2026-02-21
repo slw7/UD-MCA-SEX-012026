@@ -1,0 +1,23 @@
+Nome: Roberto Luis Botelho Cunha
+RA: 825153396
+Curso: Engenharia de Software
+Semestre: 3º
+Bairro: Sapopemba
+Trabalha: Sim
+Objetivo: Aprender Git e desenvolvimento em equipe
+
+Nome: Gabriel Sousa Silva
+RA: 825143903
+Curso: Engenharia de Software
+Semestre: 3º
+Bairro: Sapopemba
+Trabalha: Sim
+Objetivo: Aprender a mexer no Git Hub, melhorar meu desenvolvimento em equipe e me tornar um programador.
+
+Nome: Daniel Araújo Santos
+RA: 825130157
+Curso: Engenharia de Software
+Semestre: 3º
+Bairro: Parque São Lourenço
+Trabalha: Sim
+Objetivo: Aprender tudo no Git Hub, aperfeiçoar o trabalho em equipe e praticar diversas linguagens.
