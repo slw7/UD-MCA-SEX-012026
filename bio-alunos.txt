@@ -3,5 +3,5 @@ RA: 825153396
 Curso: Engenharia de Software
 Semestre: 3º
 Bairro: Sapopemba
-Trabalha: Sim
+Trabalha: Não
 Objetivo: Aprender Git e desenvolvimento em equipe
