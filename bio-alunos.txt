@@ -4,5 +4,5 @@ RA: 825130157
 Curso: Engenharia de Software
 Semestre: 3º
 Bairro: Parque São Lourenço
-Trabalha: Sim
+Trabalha: Trabalho com vendas
 Objetivo: Aprender tudo no Git Hub, aperfeiçoar o trabalho em equipe e praticar diversas linguagens.
