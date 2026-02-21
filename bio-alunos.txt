@@ -1,6 +1,6 @@
 ===== BIOGRAFIA DOS ALUNOS =====
 
-Aluno 1
+Roberto
 Nome: Roberto Luis Botelho Cunha
 RA: 825153396
 Curso: Engenharia de Software
@@ -11,7 +11,7 @@ Objetivo: Aprender Git e desenvolvimento em equipe
 
 --------------------------------
 
-Aluno 2
+Gabriel
 Nome: Gabriel Sousa Silva
 RA: 825143903
 Curso: Engenharia de Software
@@ -27,7 +27,7 @@ Objetivo: Aprender a mexer no Git Hub, melhorar meu desenvolvimento em equipe e 
 
 --------------------------------
 
-Aluno 3
+Daniel
 Nome: Daniel Araújo Santos
 RA: 825130157
 Curso: Engenharia de Software
