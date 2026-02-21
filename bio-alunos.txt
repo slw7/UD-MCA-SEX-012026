@@ -6,7 +6,7 @@ RA: 825153396
 Curso: Engenharia de Software
 Semestre: 3º
 Bairro: Sapopemba
-Trabalha: Sim
+Trabalha: Não
 Objetivo: Aprender Git e desenvolvimento em equipe
 
 --------------------------------
@@ -17,7 +17,12 @@ RA: 825143903
 Curso: Engenharia de Software
 Semestre: 3º
 Bairro: Sapopemba
-Trabalha: Sim
+Trabalha: Nome: Gabriel Sousa Silva
+RA: 825143903
+Curso: Engenharia de Software
+Semestre: 3º
+Bairro: Sapopemba
+Trabalha: Sim, atualmente trabalho com Esquadrias de Alumínio.
 Objetivo: Aprender a mexer no Git Hub, melhorar meu desenvolvimento em equipe e me tornar um programador.
 
 --------------------------------
@@ -28,5 +33,5 @@ RA: 825130157
 Curso: Engenharia de Software
 Semestre: 3º
 Bairro: Parque São Lourenço
-Trabalha: Sim
+Trabalha: Trabalho com vendas
 Objetivo: Aprender tudo no Git Hub, aperfeiçoar o trabalho em equipe e praticar diversas linguagens.
