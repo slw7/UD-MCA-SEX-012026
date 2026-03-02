@@ -1,1 +1,53 @@
+// PART 1
 
+let simplesarray = [
+  'Maçã',
+  'Banana',
+  'Laranja',
+  'Uva',
+  'Manga',
+  'Abacaxi',
+  'Morango',
+  'Kiwi',
+  'Pera',
+  'Melancia',
+  'Mamão',
+  'Limão',
+  'Cereja',
+  'Pêssego',
+  'Ameixa',
+  'Caju',
+  'Goiaba',
+  'Maracujá',
+  'Framboesa',
+  'Amora',
+  'Tangerina',
+  'Graviola'
+];
+
+// A. Elementos nas posições 0, 7, 11, 15, 18, 19 e 20
+
+console.log(simplesarray[0]);
+console.log(simplesarray[7]);
+console.log(simplesarray[11]);
+console.log(simplesarray[15]);
+console.log(simplesarray[18]);
+console.log(simplesarray[19]);
+console.log(simplesarray[20]);
+
+// B. Penúltimo e Último elemento
+
+console.log(simplesarray[simplesarray.length - 2]);
+console.log(simplesarray[simplesarray.length - 1]);
+
+// C. Quantidade de elementos
+console.log("Total de elementos:", simplesarray.length);(Total de elementos: 21)
+
+// D. Adicionar novo elemento no final do array
+simplesarray.push('Imbu');
+console.log(simplesarray);
+
+// E. Imprimir todos os elementos usando for
+for (let i = 0; i < simplesarray.length; i++) {
+  console.log(simplesarray[i]);
+}   
