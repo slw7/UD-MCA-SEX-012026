@@ -1,3 +1,5 @@
+Roberto
+
 let arrayFrutas = [
   'Maçã',
   'Banana',
@@ -47,6 +49,7 @@ for (let i = 0; i < arrayFrutas.length; i++) {
 }
 
 //////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+Gabriel
 
 let simplesarray = [
   'Maçã',
@@ -102,6 +105,7 @@ for (let i = 0; i < simplesarray.length; i++) {
 
 
 //////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+Daniel
 
 let arrayPerifericos= [
   'teclado',
@@ -186,4 +190,5 @@ console.log(arrayPerifericos);
 for (let i = 0; i < arrayPerifericos.length; i++) {
   console.log(arrayPerifericos[i]);
 }
+
 
