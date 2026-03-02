@@ -1,3 +1,5 @@
+Roberto
+
 let listaFrutas = [
   { nome: 'Maçã', preco: 3.50, estoque: 120 },
   { nome: 'Banana', preco: 2.20, estoque: 200 },
@@ -49,6 +51,7 @@ for (let i = 1; i < listaFrutas.length; i++) {
 console.log("banana:", maiorEstoque);
 
 ////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+Gabriel
 
 let objetos = [
   { nome: 'Caderno', preco: 10, estoque: 100 },
@@ -93,6 +96,7 @@ for (let i = 0; i < objetos.length; i++) {
 console.log("Objeto com maior estoque:", maiorEstoque.nome, "com estoque de", maiorEstoque.estoque);
 
 ////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+Daniel
 
 let perifericos = [
   { nome: 'Teclado', preco: 120.00, estoque: 35 },
@@ -128,5 +132,6 @@ for (let i = 1; i < perifericos.length; i++)
   if (perifericos[i].estoque > maiorEstoque.estoque) {
     maiorEstoque = perifericos[i];
   }
+
 
 
